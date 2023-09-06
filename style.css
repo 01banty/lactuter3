@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(13, 70, 70);
+}
+
+.my-para {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 59);
+}
+
+.my-para {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 59);
+}
+
+#sub-heading {
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(53, 16, 147);
+}
+
+#sub-heading:hover {
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(210, 227, 227);
+    background-color: rgb(209, 19, 19);
+}
